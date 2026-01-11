@@ -50,6 +50,6 @@ During my tenure as a **Doctoral Researcher**, I focused on the synthesis of nov
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/george-sopasis(#)
+- **LinkedIn:** www.linkedin.com/in/george-sopasis
 - **Location:** Malvern, VIC, Australia
-- **Email:** sopasis@gmail.com(#)
+- **Email:** sopasis@gmail.com
