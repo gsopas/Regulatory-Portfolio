@@ -16,6 +16,15 @@ I specialise in the **Regulatory Frame**: utilising risk-based justifications an
 ## 📁 Featured Project: Amoxicillin Suspension ARTG Registration
 This project demonstrates the transition of a legacy generic product into the Australian market, addressing critical compliance gaps through the eCTD framework.
 
+### 📂 eCTD Dossier (Project Deliverables)
+*Click below to view the formal regulatory documents:*
+
+| Module | Document Title | Description |
+| :--- | :--- | :--- |
+| **M1.0.1** | [**Cover Letter**](./M1_Admin/M1.0.1_Cover_Letter.pdf) | [cite_start]Formal TGA submission letter (Sequence 0000)[cite: 1, 9]. |
+| **M1.0.1** | [**Note to Evaluator**](./M1_Admin/M1.0.1_Note_to_Evaluator.pdf) | Navigational guide for stability justifications. |
+| **M2.3** | [**Quality Overall Summary**](./M2_Summaries/M2.3_Quality_Overall_Summary.pdf) | [cite_start]Scientific defense of API purity and formulation stability [cite: 45-48]. |
+
 ### 📋 Project Strategic Overview
 | Component | Status | Regulatory Action |
 | :--- | :--- | :--- |
