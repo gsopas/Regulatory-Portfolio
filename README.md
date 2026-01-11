@@ -9,7 +9,7 @@
 ## 🚀 Professional Profile
 I am a **Materials Scientist** transitioning into **Regulatory Affairs**, bridging the gap between high-level laboratory research and global market authorisation. My background includes 3+ years of doctoral-level research in **Alzheimer’s pharmacology** and small-molecule inorganic synthesis. 
 
-I specialize in the **Regulatory Frame**: utilising risk-based justifications and data-driven strategies to expedite market entry for complex drug products.
+I specialise in the **Regulatory Frame**: utilising risk-based justifications and data-driven strategies to expedite market entry for complex drug products.
 
 ---
 
@@ -41,15 +41,15 @@ This project demonstrates the transition of a legacy generic product into the Au
 
 ---
 
-## 🧪 Doctoral Research Background (Pharmacology)
+## 🧪 Doctoral Research Background (Inorganic chemistry)
 During my tenure as a **Doctoral Researcher**, I focused on the synthesis of novel inhibitors for Alzheimer’s disease. My work resulted in:
-* The synthesis of lead compounds currently utilized in ongoing peer-reviewed research.
-* Expertise in predicting molecular stability and degradation kinetics ($k = Ae^{-E_a/RT}$).
+* The synthesis of pharmaceutical agents currently utilised in ongoing peer-reviewed research.
+* Study of the kinetics of copper and zinc in the brain of Alzheimer's disease models. 
 * Mastery of the "Critical Quality Attribute" mindset from the bench-top level up.
 
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [[Link to your LinkedIn Profile]](#)
-- **Location:** Australia (Ready for Move to Italy/EU)
-- **Email:** [[Your Professional Email]](#)
+- **LinkedIn:** www.linkedin.com/in/george-sopasis(#)
+- **Location:** Malvern, VIC, Australia
+- **Email:** sopasis@gmail.com(#)
